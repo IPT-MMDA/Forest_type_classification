@@ -6,7 +6,7 @@ https://code.earthengine.google.com/8a7c6b1cb32120385c77d70b2a290217
 
 _Resulting_map.js_ - the resulting maps that can be used directly in the Google Earth Engine cloud platform: https://code.earthengine.google.com/baa95cfdd09e0630e21f6aa4ffe87eaa
 
-Forest mapping conducted within the framework of the HORIZON Europe project "[Satellites for Wilderness Inspection and Forest Threat Tracking](https://swiftt.eu/)" (SWIFTT) by [Space research institute NAS of Ukarine and SSA of Ukraine](http://inform.ikd.kiev.ua/en/) in collaboration with [National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"](https://mmda.ipt.kpi.ua/en/) for the European territory in 2022. The methodology is based on Sentinel-1 and Sentinel-2 satellite data from the Copernicus program, providing high spatial resolution imagery at 10 meters and Random Forest classifier.
+Forest mapping conducted within the framework of the HORIZON Europe project "[Satellites for Wilderness Inspection and Forest Threat Tracking](https://swiftt.eu/)" (SWIFTT) by [Space research institute NAS of Ukraine and SSA of Ukraine](http://inform.ikd.kiev.ua/en/) in collaboration with [National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"](https://mmda.ipt.kpi.ua/en/) for the European territory in 2022. The methodology is based on Sentinel-1 and Sentinel-2 satellite data from the Copernicus program, providing high spatial resolution imagery at 10 meters and Random Forest classifier.
 
 A preview of the forest type map for the territory of Europe for 2022 is available in Earth Engine Apps: 
 https://ee-swiftt.projects.earthengine.app/view/foresttype 
