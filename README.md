@@ -1,4 +1,4 @@
-# Forest_type_classification
+# Forest type classification for European countries
 
 _Forest_type_classification.js_ - code for forest types mapping based on Sentinel-1 and Sentinel-2 satellite data with 10 meters spatial resolution in the Google Earth Engine cloud platform.
 The code is also available via a direct link if you have a Google Earth Engine account: 
