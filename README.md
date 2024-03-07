@@ -11,4 +11,5 @@ A preview of the forest type map for the territory of Europe for 2022 is availab
 https://ee-swiftt.projects.earthengine.app/view/foresttype 
 
 **References**
-1. Kussul, N., Shelestov, A., Yailymov, B., & Yailymova, H. (2023, September). Semi-Supervised Forest Type Mapping in Europe on Satellite Data. In 2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), Vol. 1, pp. 454-458. https://doi.org/10.1109/IDAACS58523.2023.10348948 
+1. Kussul, N., Shelestov, A., Yailymov, B., & Yailymova, H. (2023, September). **Semi-Supervised Forest Type Mapping in Europe on Satellite Data**. In 2023 IEEE 12th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS), Vol. 1, pp. 454-458. https://doi.org/10.1109/IDAACS58523.2023.10348948
+2. Salii, Y., Kuzin, V., Hohol, A., Kussul, N., & Yailymova, H. (2023, July). **Machine learning models and technology for classification of forest on satellite data**. In IEEE EUROCON 2023-20th International Conference on Smart Technologies, pp. 93-98. https://doi.org/10.1109/EUROCON56442.2023.10199006
