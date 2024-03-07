@@ -11,7 +11,7 @@ Forest mapping conducted within the framework of the HORIZON Europe project "[Sa
 A preview of the forest type map for the territory of Europe for 2022 is available in Earth Engine Apps: 
 https://ee-swiftt.projects.earthengine.app/view/foresttype 
 
-![image](https://github.com/IPT-MMDA/Forest_type_classification/assets/72710261/e5724b3c-77fe-48b2-bc9a-e493c82d5acc)
+![image](https://github.com/IPT-MMDA/Forest_type_classification/assets/72710261/892e8f25-b075-49ce-804e-0225073105b7)
 
 
 **References**
