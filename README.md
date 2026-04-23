@@ -4,11 +4,11 @@ _Forest_type_classification.js_ - code for forest types mapping based on Sentine
 The code is also available via a direct link if you have a Google Earth Engine account: 
 https://code.earthengine.google.com/8a7c6b1cb32120385c77d70b2a290217 
 
-_Resulting_map.js_ - the resulting maps that can be used directly in the Google Earth Engine cloud platform: https://code.earthengine.google.com/60d93cacfbf69fcbe324fbe04c8525c7
+_Resulting_map.js_ - the resulting maps that can be used directly in the Google Earth Engine cloud platform: [https://code.earthengine.google.com/60d93cacfbf69fcbe324fbe04c8525c7](https://code.earthengine.google.com/3ebd741900e95d121d7fd1c510c5f9e5)
 
 Forest mapping conducted within the framework of the HORIZON Europe project "[Satellites for Wilderness Inspection and Forest Threat Tracking](https://swiftt.eu/)" (SWIFTT) by [Space research institute NAS of Ukraine and SSA of Ukraine](http://inform.ikd.kiev.ua/en/) in collaboration with [National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"](https://mmda.ipt.kpi.ua/en/) for the European territory in 2022 and 2024. The methodology is based on Sentinel-1 and Sentinel-2 satellite data from the Copernicus program, providing high spatial resolution imagery at 10 meters and Random Forest classifier.
 
-A preview of the forest type map for the territory of Europe for 2022 is available in Earth Engine Apps: 
+A preview of the forest type map for the territory of Europe for 2022, 2024, 2025 is available in Earth Engine Apps: 
 https://ee-swiftt.projects.earthengine.app/view/foresttype 
 
 ![image](https://github.com/IPT-MMDA/Forest_type_classification/assets/72710261/892e8f25-b075-49ce-804e-0225073105b7)
